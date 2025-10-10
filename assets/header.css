@@ -19,7 +19,7 @@ header{
     align-items: center;
     font-family: centurygothic;
     font-weight: lighter;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 .nav-bar{
     display: flex;
@@ -37,8 +37,9 @@ header{
     list-style: none;
 }
 .nav-item{
-    margin: 0 15px;
-    
+    display: flex;
+    margin: 0 14px;
+    align-items: center;
 }
 .nav-link{
     text-decoration: none;
