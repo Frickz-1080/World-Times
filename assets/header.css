@@ -19,6 +19,7 @@ header{
     align-items: center;
     font-family: centurygothic;
     font-weight: lighter;
+    font-size: 2rem;
 }
 .nav-bar{
     display: flex;
