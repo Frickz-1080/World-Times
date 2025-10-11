@@ -4,4 +4,6 @@
 
 :root{
     --cinza: rgb(17, 17, 17);
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
 }
