@@ -1,4 +1,8 @@
 @import './fonts.css';
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: rgb(21, 21, 21);
 }
@@ -15,7 +19,33 @@ img{
     }
 }
 section{
-    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--cinza);
     height: 100vh;
     width: 100%;
+    align-items: center;
+}
+
+.circulo{
+    display: flex;
+    justify-content: center;
+    height: 180px;
+    width: 180px;
+    background: white;
+    border-radius: 100%;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.factec{
+    height: 60%;
+    width: auto;
+    transform: translateY(25%);
+}
+
+.texto{
+    color: white;
+    font-family: centurybold;
+    font-size: 6vh;
 }

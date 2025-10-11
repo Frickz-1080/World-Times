@@ -13,3 +13,8 @@
     src: url('/assets/fonts/century-gothic-paneuropean-light.ttf') format('truetype');
     font-style: normal;
 }
+@font-face{
+    font-family: centurybold;
+    src: url('/assets/fonts/centurygothic_bold.ttf') format('truetype');
+    font-style: normal;
+}
