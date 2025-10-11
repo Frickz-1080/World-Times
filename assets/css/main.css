@@ -46,6 +46,6 @@ section{
 
 .texto{
     color: white;
-    font-family: centurybold;
+    font-family: centurybold, Outfit;
     font-size: 6vh;
 }
