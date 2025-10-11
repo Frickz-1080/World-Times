@@ -9,7 +9,11 @@ img{
     object-fit: cover;
     object-position: bottom;
 }
-
+@media(max-width:900px){
+    img{
+        height: 30vh;
+    }
+}
 section{
     background-color: aqua;
     height: 100vh;
