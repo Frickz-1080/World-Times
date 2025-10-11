@@ -1,0 +1,15 @@
+@font-face{
+    font-family: centurygothic;
+    src: url('/assets/fonts/centurygothic.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face{
+    font-family: lovelo;
+    src: url('/assets/fonts/Lovelo_Black.otf') format('truetype');
+    font-style: normal;
+}
+@font-face{
+    font-family: centurylight;
+    src: url('/assets/fonts/century-gothic-paneuropean-light.ttf') format('truetype');
+    font-style: normal;
+}
