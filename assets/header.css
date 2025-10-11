@@ -12,6 +12,7 @@ body{
 header{
     background-color: rgb(41, 36, 51);
     box-shadow: 0px -3px 10px black;
+    width: 100%;
 }
 .titulo{
     display: flex;
@@ -19,7 +20,7 @@ header{
     align-items: center;
     font-family: centurygothic;
     font-weight: lighter;
-    font-size: 2rem;
+    font-size: 150%;
 }
 .nav-bar{
     display: flex;
@@ -27,11 +28,10 @@ header{
     padding: 0.5rem 1rem;
     align-items: center;
 }
-/* ------------- */
+
 .nav-list{
     display: flex;
     align-items: center;
-    margin-right: 0;
 }
 .nav-list ul{
     display: flex;
