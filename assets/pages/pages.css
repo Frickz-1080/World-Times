@@ -38,6 +38,7 @@ body{
 }
 
 .line{
+    position: relative;
     width: 2px;
     height: 200vh;
     background: linear-gradient(white,black);

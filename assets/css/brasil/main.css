@@ -12,4 +12,5 @@
     object-fit: cover;
     object-position: top;
     display: block;
+    overflow: hidden;
 }
