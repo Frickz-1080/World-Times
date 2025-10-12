@@ -34,7 +34,7 @@ body{
     height: 100vh;
     background-color: rgba(0, 255, 255, 0);
     overflow-y: auto;
-    scrollbar-color: #999 #333;
+    scrollbar-color:  rgba(160, 160, 160, 0.6) rgba(50, 50, 50, 1);
 }
 
 .line{
