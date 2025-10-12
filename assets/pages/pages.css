@@ -1,6 +1,26 @@
 @import url(../../style.css);
 
-.block{
-    height: 50px;
-    width: 50px;
+body{
+    min-width: 300px;
+}
+
+.voltar{
+    display: flex;
+    position: absolute;
+    height: 5vh;
+    width: 5vh;
+    background: rgb(23, 23, 23);
+    top: 1vh;
+    left: 1vh;
+    border-radius: 1.5vh;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.voltar:hover{
+    outline: 1px solid white;
+}
+.voltar img{
+    height: 35%;
+    width: auto;
 }
