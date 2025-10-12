@@ -14,3 +14,8 @@
 body{
     background-color: var(--cinza);
 }
+
+img{
+    pointer-events: none;
+}
+

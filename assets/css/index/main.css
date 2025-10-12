@@ -21,7 +21,7 @@ body{
         flex-direction: column;
     }
 }
-section{
+.interface{
     display: flex;
     flex-direction: column;
     background-color: var(--cinza);
