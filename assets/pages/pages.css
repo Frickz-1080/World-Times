@@ -7,12 +7,12 @@ body{
 .voltar{
     display: flex;
     position: absolute;
-    height: 5vh;
-    width: 5vh;
+    height: 2.5rem;
+    width: 2.5rem;
     background: rgb(23, 23, 23);
     top: 1vh;
     left: 1vh;
-    border-radius: 1.5vh;
+    border-radius: 0.7rem;
     align-items: center;
     justify-content: center;
     cursor: pointer;
