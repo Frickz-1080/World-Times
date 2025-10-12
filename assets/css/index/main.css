@@ -14,7 +14,7 @@ body{
     object-position: bottom;
 }
 @media(max-width:900px){
-    img{
+    .escadaria{
         height: 30vh;
     }
     .y-center{
