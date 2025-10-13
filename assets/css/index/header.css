@@ -1,4 +1,8 @@
 @import '/assets/fonts/fonts.css';
+@font-face {
+    font-family: 'CenturyLight';
+    src: url(../../fonts/century-gothic-paneuropean-light.ttf) format('truetype');
+}
 
 * {
     padding: 0;
@@ -11,9 +15,10 @@ body{
     max-width: 100%;
 }
 header{
-    position: fixed;
     width: 100%;
+    height: 3rem;
     z-index: 999;
+    background-color: aqua;
 }
 
 .container nav{
@@ -22,6 +27,7 @@ header{
     justify-content: space-between;
     background-color: black;
     width: 100%;
+    z-index: 999;
 }
 .logo{
     display: flex;

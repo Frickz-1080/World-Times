@@ -6,11 +6,11 @@
     box-sizing: border-box;
 }
 
-.fundo-brasil{
-    height: 100vh;
+body{
+    background-image: url(../../img/br.png);
+    height: 100%;
     width: 100%;
-    object-fit: cover;
-    object-position: top;
-    display: block;
-    overflow: hidden;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
