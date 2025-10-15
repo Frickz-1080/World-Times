@@ -1,0 +1,13 @@
+<section class="main-text-block">
+    Vamos te apresentar os<br>
+    principais marcos e eventos<br>
+    que ocorreram tanto no Brasil<br>
+    quanto no mundo a fora.
+</section class="main-text-block">
+
+<section class="main-text-block">
+    Nossa equipe selecionou a dedo<br>
+    as curiosidades e dados mais<br>
+    interessantes sobre o turismo ao<br>
+    longo desses 25 anos.
+</section>
