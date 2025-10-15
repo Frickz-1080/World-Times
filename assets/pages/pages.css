@@ -194,4 +194,7 @@ button{
     .left{
         position: absolute;
     }
+    .bloco:hover{
+        height: 11rem;
+    }
 }
