@@ -112,13 +112,40 @@ body{
     justify-content: center;
     display: flex;
     text-align: center;
-    gap: 0.8rem;
     font-size: 1rem;
     font-family: arial;
     color: white;
     font-weight: bold;
     width: 100%;
 }
+.equipe{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+    margin-bottom: 4rem;
+}
+.equipe-text{
+    color: white;
+    font-family: centurylight;
+    font-weight: lighter;
+    margin-bottom: 1.5rem;
+}
+.equipe-btn{
+    display: flex;
+    background: linear-gradient(to right, #f37214, #f4a716);
+    justify-content: center;
+    align-items: center;
+    width: 13rem;
+    height: 3rem;
+    color: white;
+    font-family: centurybold;
+    border-radius: 1rem;
+}
+
+
+/* ===================== MOBILE ====================== */
 
 @media(max-width:60rem){
     .yellow{

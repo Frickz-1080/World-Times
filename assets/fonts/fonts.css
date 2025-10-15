@@ -14,6 +14,7 @@
     font-family: centurylight;
     src: url('/assets/fonts/century-gothic-paneuropean-light.ttf') format('truetype');
     font-style: normal;
+    font-weight: lighter;
 }
 @font-face{
     font-family: centurybold;
