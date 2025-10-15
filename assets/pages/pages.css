@@ -168,7 +168,7 @@ button{
 /* ========================================= MOBILE =========================================== */
 
 
-@media(max-width:50rem){
+@media(max-width:60rem){
     .sub-lines{
         display: none;
     }
