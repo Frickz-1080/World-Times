@@ -1,0 +1,24 @@
+@import url(../../pages/pages.css);
+
+.fullscreen{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sobre-container{
+    height: 90%;
+    width: 95%;
+    color: white;
+}
+.sobre-container span{
+    font-size: 3rem;
+    font-family: centurybold;
+}
+.sobre-container p{
+    line-height: 2rem;
+    font-size: 1.3rem;
+    font-family: centurylight;
+
+}
