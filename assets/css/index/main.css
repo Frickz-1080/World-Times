@@ -150,25 +150,7 @@ body{
     display: grid;
     width: 100%;
     position: relative;
-    background-color: aqua;
-}
-.option-section{
-    display: flex;
-    align-items: center;
-    width: 50vw;
-    position: relative;
-    height: 20rem;
-    background-color: #f37214;
-}
-.brasil-option{
-    position: absolute;
-    right: 0;
-    width: 50%;
-}
-.mundo-option{
-    width: 50%;
-    position: absolute;
-    left: 0;
+    height: 50vh;
 }
 
 /* ===================== MOBILE ====================== */
