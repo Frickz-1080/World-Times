@@ -24,15 +24,39 @@
 }
 .membros{
     font-family: 'Courier New', Courier, monospace;
-    display: grid;
-    justify-content: center;
-    text-align: center;
+    margin-top: 50px;
 }
 .membros ul{
     list-style: none;
     font-family: inter;
 }
 .membros h1{
-    margin-top: 50px;
+    margin-bottom: 10px;
     font-family: centurybold;
+}
+
+@media(max-width:600px){
+    .membros{
+        display: grid;
+        justify-content: center;
+        text-align: center;
+    }
+    .caixa-turmas{
+        display: grid;
+        margin: 10px 0;
+        background-color: rgb(0, 0, 0);
+        align-items: center;
+        justify-content: center;
+        border-radius: 1rem;
+    }
+    .membros h1{
+        margin: 0 20px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 2.4rem;
+    }
+    .membros ul{
+        margin: 20px 20px;
+        font-size: 1.2rem;
+    }
 }
