@@ -23,16 +23,16 @@
 }
 @font-face{
     font-family: garetbold;
-    src: url('Garet-Heavy.ttf') format('truetype');
+    src: url('Garet-Heavy.ttf') format('opentype');
     font-style: normal;
 }
 @font-face{
     font-family: garetlight;
-    src: url('Garet-Book.otf') format('truetype');
+    src: url('Garet-Book.otf') format('opentype');
     font-style: normal;
 }
 @font-face{
     font-family: inter;
-    src: url('Inter_18pt-Medium.ttf') format('truetype');
+    src: url('Inter_18pt-Medium.ttf') format('opentype');
     font-style: normal;
 }
