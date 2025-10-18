@@ -22,3 +22,17 @@
     font-family: centurylight;
 
 }
+.membros{
+    font-family: 'Courier New', Courier, monospace;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+.membros ul{
+    list-style: none;
+    font-family: inter;
+}
+.membros h1{
+    margin-top: 50px;
+    font-family: centurybold;
+}

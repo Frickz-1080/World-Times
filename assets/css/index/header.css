@@ -59,4 +59,7 @@ header{
     .item a{
         color: white;
     }
+    header{
+        height: 2rem;
+    }
 }

@@ -2,22 +2,37 @@
 
 @font-face{
     font-family: centurygothic;
-    src: url('/assets/fonts/centurygothic.ttf') format('truetype');
+    src: url('centurygothic.ttf') format('truetype');
     font-style: normal;
 }
 @font-face{
     font-family: lovelo;
-    src: url('/assets/fonts/Lovelo_Black.otf') format('truetype');
+    src: url('Lovelo_Black.otf') format('truetype');
     font-style: normal;
 }
 @font-face{
     font-family: centurylight;
-    src: url('/assets/fonts/century-gothic-paneuropean-light.ttf') format('truetype');
+    src: url('century-gothic-paneuropean-light.ttf') format('truetype');
     font-style: normal;
     font-weight: lighter;
 }
 @font-face{
     font-family: centurybold;
-    src: url('/assets/fonts/centurygothic_bold.ttf') format('truetype');
+    src: url('centurygothic_bold.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face{
+    font-family: garetbold;
+    src: url('Garet-Heavy.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face{
+    font-family: garetlight;
+    src: url('Garet-Book.otf') format('truetype');
+    font-style: normal;
+}
+@font-face{
+    font-family: inter;
+    src: url('Inter_18pt-Medium.ttf') format('truetype');
     font-style: normal;
 }

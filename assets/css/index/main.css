@@ -76,8 +76,8 @@ body{
 }
 
 .yellow{
-    font-family: lovelo;
-    font-weight: 900;
+    font-family: garetbold;
+    font-weight: bolder;
     align-items: center;
     display: flex;
     width: 40rem;
@@ -93,10 +93,12 @@ body{
     flex-direction: column;
 }
 .yellow-t span{
-    font-size: 3rem;
+    font-weight: 100;
+    font-size: 2.5rem;
     line-height: 3rem;
 }
 .yellow-t p{
+    font-family: garetlight;
     font-size: 2rem;
 }
 .world{
@@ -150,7 +152,7 @@ body{
     display: grid;
     width: 100%;
     position: relative;
-    height: 50vh;
+    height: 30vh;
 }
 
 /* ===================== MOBILE ====================== */

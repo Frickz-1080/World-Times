@@ -4,14 +4,6 @@ body{
     min-width: 300px;
 }
 
-dialog{
-    all: unset;
-    position: fixed;
-    top: 10%;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: rgba(0, 0, 0, 0.538)
-}
 button{
     all: unset;
 }
