@@ -76,7 +76,6 @@ body{
 }
 
 .yellow{
-    font-family: garetbold;
     font-weight: bolder;
     align-items: center;
     display: flex;
@@ -93,7 +92,8 @@ body{
     flex-direction: column;
 }
 .yellow-t span{
-    font-weight: 100;
+    font-family: garetbold;
+    font-weight: 900;
     font-size: 2.5rem;
     line-height: 3rem;
 }
